@@ -1,0 +1,37 @@
+1)
+Traffic signal classification: Beginner(96%)
+
+https://www.kaggle.com/preetisingla/traffic-signal-classification-beginner-96
+
+2)Le-Net: Identifying the traffic signals!
+https://www.kaggle.com/yashk07/le-net-identifying-the-traffic-signals
+
+3)ResNet for Traffic Sign Classification With PyTorch
+
+https://towardsdatascience.com/resnet-for-traffic-sign-classification-with-pytorch-5883a97bbaa3
+
+4)Classifying traffic signs using a deep learning model (with PyTorch)
+
+https://subscription.packtpub.com/book/data/9781789537147/7/ch07lvl1sec55/classifying-traffic-signs-using-a-deep-learning-model-with-pytorch
+
+5)Traffic Sign Recognition using Neural Networks
+https://debuggercafe.com/traffic-sign-recognition-using-neural-networks/
+
+6)Traffic Sign Detection with Faster R-CNN
+https://www.kaggle.com/haxothermic/traffic-sign-detection-with-faster-r-cnn
+
+7)A Deep Learning Based Framework for
+Robust Traffic Sign Detection Under Challenging
+Weather Conditions
+https://arxiv.org/pdf/2006.02578.pdf
+
+8)Traffic Sign Recognition on Video Sequence Using
+Deep Neural Networks and Matching Algorithm
+
+9)Adaptation of a Deep Learning Algorithm for Traffic Sign
+Detection
+Jose Luis Masache Narvaez
+The University of Western Ontario
+
+
+https://github.com/poojahira/gtsrb-pytorch
